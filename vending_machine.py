@@ -1,5 +1,3 @@
-
-
 #account & previous balance & inventory
 #currency
 #add balance
