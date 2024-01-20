@@ -1,8 +1,5 @@
-#account & previous balance & inventory
-#currency
-#add balance
-
-#vending machine menu [OPEN]
+import math
+import sqlite3
 
 print("\n\n\n\n\n\n\n\n\n\nVENDING MACHINE")
 print("-----------------")
@@ -15,6 +12,15 @@ print("[C] for Cart")
 print("[I] for Inventory")
 print("-----------------")
 menu = input("INPUT ANYTHING: ")
+
+print("\n\n\n\n\n\n\n\n\n\n")
+print("")
+
+#account & previous balance & inventory
+#currency
+#add balance
+
+#vending machine menu [OPEN]
 
 #####################################CATEGORY#####################################
 
